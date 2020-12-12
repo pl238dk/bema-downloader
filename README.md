@@ -7,6 +7,3 @@ Starts from episode 0, downloads until the end of the current Session.
 Checks for missing episodes and downloads.
 
 Checks for new episodes and downloads.
-=======
-# bema-downloader
-Download BEMA podcast episodes!
