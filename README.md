@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BEMA Downloader
 Downloads all podcast episodes from https://www.bemadiscipleship.com/
 
@@ -11,4 +10,3 @@ Checks for new episodes and downloads.
 =======
 # bema-downloader
 Download BEMA podcast episodes!
->>>>>>> 7cee10adb2e44791826830aaf9ff57d8d9a106ad
